@@ -103,8 +103,8 @@ function renderForecastCard(forecast) {
 
     col.setAttribute('class', 'col-md');
     col.classList.add('five-day-vard');
-    card.setAttribute('class', 'card bg-primary h-100 text-white');
-    cardBody.setAttribute('class', 'card-body p-2');
+    card.setAttribute('class', 'card bg1 h-100 text-white');
+    cardBody.setAttribute('class', 'card-body p');
     cardTitle.setAttribute('class', 'card-text');
     tempEl.setAttribute('class', 'card-text');
     windEl.setAttribute('class', 'card-text');

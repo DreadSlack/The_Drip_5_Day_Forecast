@@ -69,7 +69,7 @@ button {
 }
 
 .bg1 {
-  background-color: #3e5a78;
+  background-color: #2473e2;
 }
 
 .btn {
@@ -126,7 +126,7 @@ button {
     background-color: #ccb8e9;
 }
 
-.search-button {
+.find-button {
     text-align: inherit;
     margin: 13px;
     width: 100%;
@@ -135,7 +135,7 @@ button {
     color: rgb(255, 255, 255);
 }
 
-.weather-search {
+.local-find {
     width: 100%;
     padding: 7px;
     margin: 7px;
@@ -146,7 +146,7 @@ button {
     border: 1px solid #c1a30b;
 }
 
-.search-hr {
+.location-hr {
     margin-left: 7px;
 }
 
